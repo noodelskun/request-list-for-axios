@@ -1,0 +1,26 @@
+{
+  "name": "request-list-for-axios",
+  "version": "1.0.0",
+  "description": "基于axios封装的请求队列小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noodelskun/request-list-for-axios.git"
+  },
+  "keywords": [
+    "axios",
+    "requestList"
+  ],
+  "author": "miantiaojun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noodelskun/request-list-for-axios/issues"
+  },
+  "homepage": "https://github.com/noodelskun/request-list-for-axios#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
